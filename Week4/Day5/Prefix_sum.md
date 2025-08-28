@@ -2,9 +2,10 @@
 
 The correct formula for a prefix sum array is:  
 
-\[
-\text{prefix}[i] = \text{prefix}[i-1] + \text{arr}[i]
-\]
+$$
+prefix[i] = prefix[i-1] + arr[i]
+$$
+
 
 ---
 
