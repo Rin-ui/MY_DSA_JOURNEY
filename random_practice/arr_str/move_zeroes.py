@@ -10,4 +10,5 @@ for i in range(len(arr)):
         new_arr.append(arr[i])
 for i in range(count):
     new_arr.append(0)
-print(new_arr)
+print(*new_arr)
+        
